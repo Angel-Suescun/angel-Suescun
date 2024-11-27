@@ -1,4 +1,4 @@
-# Hola, soy [Tu Nombre] 👋
+# Hola, soy Angel Suescun 👋
 
 Soy un **desarrollador en inicio de carrera** con un enfoque principal en **Python**. Mi objetivo es aprender y crecer constantemente en este mundo del desarrollo y contribuir con proyectos interesantes. Me apasiona la programación y la resolución de problemas mediante el código.
 
