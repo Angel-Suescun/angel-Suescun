@@ -26,7 +26,7 @@ Soy un **desarrollador en inicio de carrera** con un enfoque principal en **Pyth
 
 Aquí podrás encontrar los repositorios de los proyectos en los que estoy trabajando:
 
-- [Mi repositorio de proyectos en GitHub](https://github.com/tu_usuario)
+- [Mi repositorio de proyectos en GitHub](https://github.com/Angel-Suescun)
 
 ---
 
