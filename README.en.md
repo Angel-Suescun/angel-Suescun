@@ -5,7 +5,7 @@
 # Hi, I'm Angel Suescun 👋
 
 🎓 **Systems and Computing Engineering**  
-📍 National University of Colombia
+📍 Universidad Nacional de Colombia
 
 I am a Systems and Computing Engineering student with a strong interest in **software development in general**.  
 I enjoy designing well-structured solutions, applying theoretical concepts to real projects, and writing clean, maintainable code.
